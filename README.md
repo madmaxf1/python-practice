@@ -1,2 +1,2 @@
-# pythoon-practice
+# python-practice
 first python project
