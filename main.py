@@ -6,8 +6,8 @@ from email.mime.text import MIMEText
 from datetime import datetime
 
 # ── Gmail SMTP config — fill these in ─────────────────────────────────────────
-GMAIL_SENDER   = "vincentdominicp@gmail.com"   # ← your Gmail address
-GMAIL_APP_PASS = "vmgp rtpf bkdk tvsq"    # ← your 16-char App Password
+GMAIL_SENDER   = "@gmail.com"   # ← your Gmail address
+GMAIL_APP_PASS = "qweytwytqwy"    # ← your 16-char App Password
 STORE_NAME     = "Computer Parts & Accesorries Store"
 
 # ── Sample Product Data ────────────────────────────────────────────────────────
